@@ -9,7 +9,7 @@
 - Instala os pacotes necessarios
 
 ```cmd
-pip.exe install -r requirements.txt
+pip.exe install -r "requirements.txt"
 ```
 - Inicia o programa
 
